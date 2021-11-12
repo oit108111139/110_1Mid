@@ -66,5 +66,10 @@ namespace _110_1Mid {
                 .ToUpper();
             return s_Md5;
         }
+
+        protected void RadioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
